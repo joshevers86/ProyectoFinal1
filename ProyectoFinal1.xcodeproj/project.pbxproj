@@ -15,6 +15,24 @@
 		822BB9C8204197D8000A60C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9C6204197D8000A60C4 /* LaunchScreen.storyboard */; };
 		822BB9D3204197D8000A60C4 /* ProyectoFinal1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9D2204197D8000A60C4 /* ProyectoFinal1Tests.swift */; };
 		822BB9DE204197D8000A60C4 /* ProyectoFinal1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9DD204197D8000A60C4 /* ProyectoFinal1UITests.swift */; };
+		822BB9EF2041998F000A60C4 /* QR_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9EC2041998E000A60C4 /* QR_button.png */; };
+		822BB9F02041998F000A60C4 /* locationGPS_color_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9ED2041998F000A60C4 /* locationGPS_color_button.png */; };
+		822BB9F12041998F000A60C4 /* locationGPS_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9EE2041998F000A60C4 /* locationGPS_button.png */; };
+		822BB9F420419B71000A60C4 /* QR_button_150.png in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9F220419B71000A60C4 /* QR_button_150.png */; };
+		822BB9F520419B71000A60C4 /* locationGPS_button_150.png in Resources */ = {isa = PBXBuildFile; fileRef = 822BB9F320419B71000A60C4 /* locationGPS_button_150.png */; };
+		822BB9F72041A380000A60C4 /* Rutas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9F62041A380000A60C4 /* Rutas.swift */; };
+		822BB9F82041A380000A60C4 /* Rutas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9F62041A380000A60C4 /* Rutas.swift */; };
+		822BB9F92041A380000A60C4 /* Rutas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9F62041A380000A60C4 /* Rutas.swift */; };
+		822BB9FC2041A3F8000A60C4 /* QR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9FB2041A3F8000A60C4 /* QR.swift */; };
+		822BB9FD2041A3F8000A60C4 /* QR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9FB2041A3F8000A60C4 /* QR.swift */; };
+		822BB9FE2041A3F8000A60C4 /* QR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BB9FB2041A3F8000A60C4 /* QR.swift */; };
+		82CBA18E20AB511E00697256 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CBA18D20AB511E00697256 /* iPad.storyboard */; };
+		82CBA18F20AB511E00697256 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CBA18D20AB511E00697256 /* iPad.storyboard */; };
+		82CBA19020AB511E00697256 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CBA18D20AB511E00697256 /* iPad.storyboard */; };
+		82CBA19220AC431B00697256 /* VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CBA19120AC431B00697256 /* VC.swift */; };
+		82CBA19320AC431B00697256 /* VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CBA19120AC431B00697256 /* VC.swift */; };
+		82CBA19420AC431B00697256 /* VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CBA19120AC431B00697256 /* VC.swift */; };
+		82CBA19B20AC4B1900697256 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82CBA19A20AC4B1900697256 /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,16 @@
 		822BB9D9204197D8000A60C4 /* ProyectoFinal1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyectoFinal1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		822BB9DD204197D8000A60C4 /* ProyectoFinal1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProyectoFinal1UITests.swift; sourceTree = "<group>"; };
 		822BB9DF204197D8000A60C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		822BB9EC2041998E000A60C4 /* QR_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QR_button.png; sourceTree = "<group>"; };
+		822BB9ED2041998F000A60C4 /* locationGPS_color_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = locationGPS_color_button.png; sourceTree = "<group>"; };
+		822BB9EE2041998F000A60C4 /* locationGPS_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = locationGPS_button.png; sourceTree = "<group>"; };
+		822BB9F220419B71000A60C4 /* QR_button_150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QR_button_150.png; sourceTree = "<group>"; };
+		822BB9F320419B71000A60C4 /* locationGPS_button_150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = locationGPS_button_150.png; sourceTree = "<group>"; };
+		822BB9F62041A380000A60C4 /* Rutas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rutas.swift; sourceTree = "<group>"; };
+		822BB9FB2041A3F8000A60C4 /* QR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QR.swift; sourceTree = "<group>"; };
+		82CBA18D20AB511E00697256 /* iPad.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = iPad.storyboard; sourceTree = "<group>"; };
+		82CBA19120AC431B00697256 /* VC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VC.swift; sourceTree = "<group>"; };
+		82CBA19A20AC4B1900697256 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82CBA19B20AC4B1900697256 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,10 +108,12 @@
 		822BB9AE204197D8000A60C4 = {
 			isa = PBXGroup;
 			children = (
+				822BB9EB20419949000A60C4 /* images */,
 				822BB9B9204197D8000A60C4 /* ProyectoFinal1 */,
 				822BB9D1204197D8000A60C4 /* ProyectoFinal1Tests */,
 				822BB9DC204197D8000A60C4 /* ProyectoFinal1UITests */,
 				822BB9B8204197D8000A60C4 /* Products */,
+				82CBA19920AC4B1900697256 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +130,17 @@
 		822BB9B9204197D8000A60C4 /* ProyectoFinal1 */ = {
 			isa = PBXGroup;
 			children = (
+				82CBA19120AC431B00697256 /* VC.swift */,
 				822BB9BA204197D8000A60C4 /* AppDelegate.swift */,
 				822BB9BC204197D8000A60C4 /* ViewController.swift */,
 				822BB9BE204197D8000A60C4 /* Main.storyboard */,
+				82CBA18D20AB511E00697256 /* iPad.storyboard */,
 				822BB9C4204197D8000A60C4 /* Assets.xcassets */,
 				822BB9C6204197D8000A60C4 /* LaunchScreen.storyboard */,
 				822BB9C9204197D8000A60C4 /* Info.plist */,
 				822BB9C1204197D8000A60C4 /* ProyectoFinal1.xcdatamodeld */,
+				822BB9F62041A380000A60C4 /* Rutas.swift */,
+				822BB9FB2041A3F8000A60C4 /* QR.swift */,
 			);
 			path = ProyectoFinal1;
 			sourceTree = "<group>";
@@ -126,6 +161,26 @@
 				822BB9DF204197D8000A60C4 /* Info.plist */,
 			);
 			path = ProyectoFinal1UITests;
+			sourceTree = "<group>";
+		};
+		822BB9EB20419949000A60C4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				822BB9F320419B71000A60C4 /* locationGPS_button_150.png */,
+				822BB9F220419B71000A60C4 /* QR_button_150.png */,
+				822BB9EE2041998F000A60C4 /* locationGPS_button.png */,
+				822BB9ED2041998F000A60C4 /* locationGPS_color_button.png */,
+				822BB9EC2041998E000A60C4 /* QR_button.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		82CBA19920AC4B1900697256 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				82CBA19A20AC4B1900697256 /* WebKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +290,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				822BB9F520419B71000A60C4 /* locationGPS_button_150.png in Resources */,
+				82CBA18E20AB511E00697256 /* iPad.storyboard in Resources */,
 				822BB9C8204197D8000A60C4 /* LaunchScreen.storyboard in Resources */,
 				822BB9C5204197D8000A60C4 /* Assets.xcassets in Resources */,
+				822BB9EF2041998F000A60C4 /* QR_button.png in Resources */,
+				822BB9F02041998F000A60C4 /* locationGPS_color_button.png in Resources */,
+				822BB9F420419B71000A60C4 /* QR_button_150.png in Resources */,
 				822BB9C0204197D8000A60C4 /* Main.storyboard in Resources */,
+				822BB9F12041998F000A60C4 /* locationGPS_button.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +306,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82CBA18F20AB511E00697256 /* iPad.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +314,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82CBA19020AB511E00697256 /* iPad.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +326,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				822BB9C3204197D8000A60C4 /* ProyectoFinal1.xcdatamodeld in Sources */,
+				822BB9F72041A380000A60C4 /* Rutas.swift in Sources */,
+				82CBA19220AC431B00697256 /* VC.swift in Sources */,
 				822BB9BD204197D8000A60C4 /* ViewController.swift in Sources */,
+				822BB9FC2041A3F8000A60C4 /* QR.swift in Sources */,
 				822BB9BB204197D8000A60C4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +338,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82CBA19320AC431B00697256 /* VC.swift in Sources */,
 				822BB9D3204197D8000A60C4 /* ProyectoFinal1Tests.swift in Sources */,
+				822BB9F82041A380000A60C4 /* Rutas.swift in Sources */,
+				822BB9FD2041A3F8000A60C4 /* QR.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +349,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82CBA19420AC431B00697256 /* VC.swift in Sources */,
 				822BB9DE204197D8000A60C4 /* ProyectoFinal1UITests.swift in Sources */,
+				822BB9F92041A380000A60C4 /* Rutas.swift in Sources */,
+				822BB9FE2041A3F8000A60C4 /* QR.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +505,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ES5F8E7C9U;
 				INFOPLIST_FILE = ProyectoFinal1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jonaal1.ProyectoFinal1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -448,6 +521,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ES5F8E7C9U;
 				INFOPLIST_FILE = ProyectoFinal1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jonaal1.ProyectoFinal1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
